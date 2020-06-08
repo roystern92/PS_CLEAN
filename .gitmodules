@@ -1,0 +1,6 @@
+[submodule "psclean_client"]
+	path = psclean_client
+	url = https://github.com/roystern92/psclean_client.git
+[submodule "psclean_server"]
+	path = psclean_server
+	url = https://github.com/roystern92/psclean_server.git
